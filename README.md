@@ -3,3 +3,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Aprendi sobre como funciona e como criar a conta no Azure da microsoft.
 
 novos aprendizados sobre a azure, incluindo recursos sobre disponibilidade
+
+novos conhecimentos.
