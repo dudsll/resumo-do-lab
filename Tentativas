@@ -1,0 +1,13 @@
+tentarivas = 0
+senha = int(input('Digite a senha de acesso de 6 dígitos)
+
+while tentativa != 3:
+
+if senha == 150525:
+	print('Senha correta!!!')
+	break
+
+else: print('Senha incorreta, tente novamente!!!')
+	tentativa += 1
+
+	print('Você ultrapassou 3 chances, reinicie o sistema!!!')
