@@ -1,0 +1,16 @@
+nome = input('Digite seu nome'
+idade = int(input('Digite a sua idade')
+peso = float(input('Digite o seu peso')
+altura = float(input('Digite a sua altura')
+
+print('Cálculo do IMC')
+
+imc = (peso / (altura * altura)
+
+if imc = 29:
+	print('Você é um atleta')
+
+elif imc > 29:
+	print('Você precia emagrecer')
+
+else: print('Você precisa engordar')
